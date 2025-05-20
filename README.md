@@ -33,5 +33,5 @@ I developed a comprehensive project in excel, creating multiple dashboards and t
 .merge all pivot tables into one dashboard and apply silcer to make dynamic.
 
 # Dashboard
-Screenshot 2025-03-15 082106
+[(dashboard)](https://github.com/sanjay17012002/Data-Analyst-Project-Using-MS-Excel/blob/main/dashboard.jpeg)
 
