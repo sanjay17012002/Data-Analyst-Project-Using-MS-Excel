@@ -25,7 +25,13 @@ I developed a comprehensive project in excel, creating multiple dashboards and t
 # Processing
 
 .verify date for any missing valuess and anomalies, and sort out the same.
+
 .made sure data is consistent and clean with respect to data type.
+
 .create pivot table according to the question asked.
+
 .merge all pivot tables into one dashboard and apply silcer to make dynamic.
+
+# Dashboard
+Screenshot 2025-03-15 082106
 
