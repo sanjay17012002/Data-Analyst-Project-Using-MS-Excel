@@ -39,3 +39,7 @@ I developed a comprehensive project in excel, creating multiple dashboards and t
 # Dashboard
 [(dashboard)](https://github.com/sanjay17012002/Data-Analyst-Project-Using-MS-Excel/blob/main/dashboard.jpeg)
 
+# Final conclusion:
+
+The analysis of call center data provides valuable insights into operational efficiency.key trends indicate the total call for customers,rating from customer,amount in 2023 and happy customers rating . optimizing call data based on call volume trends and to track improvement and identify new trends
+
